@@ -1,1 +1,1 @@
-//Stopped working on createing list of hauling ships on Thursday, April 27
+//Stopped working on creating list of hauling ships on Thursday, April 27
