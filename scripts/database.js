@@ -20,9 +20,9 @@ const database = {
         {id: 3, haulerShipId: 2, name: "Pipsqueak"},
         {id: 4, haulerShipId: 1, name: "Lonely Hour"},
         {id: 5, haulerShipId: 4, name: "Jupiter"},
-        {id: 6, haulerShipId: 4, name: "Skipper Slipper"},
+        {id: 6, haulerShipId: 3, name: "Skipper Slipper"},
         {id: 7, haulerShipId: 1, name: "Triple Trouble"},
-        {id: , haulerShipId: 3, name: "Frozen Rose"},
+        {id: 8, haulerShipId: 3, name: "Frozen Rose"},
     ]
 }
 
